@@ -76,4 +76,3 @@ end
 def twenty_first_century?(year)
     year.between(2001,2100)
 end
-
